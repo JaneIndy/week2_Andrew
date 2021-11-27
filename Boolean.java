@@ -44,7 +44,11 @@ public class Boolean {
 				
 		System.out.println(x3);
 		
+<<<<<<< HEAD
 
+=======
+System.out.println(cccccccc);
+>>>>>>> parent of ef7c8f4 (addjj)
 			 }
 		
 		}
